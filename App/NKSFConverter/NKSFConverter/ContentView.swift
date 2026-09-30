@@ -110,12 +110,19 @@ struct MissingPluginsView: View {
                     } else {
                         Button("Locate .vst3...") {
                             let panel = NSOpenPanel()
-                            let vst3UTI = UTType(tag: "vst3", tagClass: .filenameExtension, conformingTo: nil) ?? .bundle
-                            panel.allowedContentTypes = [vst3UTI]
+                            if let uti = UTType(filenameExtension: "vst3") {
+                                panel.allowedContentTypes = [uti, .bundle, .folder, .directory]
+                            } else {
+                                panel.allowedContentTypes = [.bundle, .folder, .directory]
+                            }
                             panel.canChooseFiles = true
-                            panel.canChooseDirectories = false
+                            panel.canChooseDirectories = true
                             if panel.runModal() == .OK, let url = panel.url {
-                                model.resolveMissingPlugin(req, url: url)
+                                if url.pathExtension.lowercased() == "vst3" {
+                                    model.resolveMissingPlugin(req, url: url)
+                                } else {
+                                    model.log("Error: You must select a valid .vst3 plugin file/folder.")
+                                }
                             }
                         }
                     }
