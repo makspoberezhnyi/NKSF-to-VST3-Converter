@@ -7,13 +7,27 @@ guard CommandLine.arguments.count > 1 else {
 }
 
 let path = CommandLine.arguments[1]
-let data = try Data(contentsOf: URL(fileURLWithPath: path))
-let model = try NKSFParser.parse(data: data)
-
-if let meta = model.metadata, case .map(let dict) = meta {
-    for (k, v) in dict {
-        if case .string(let keyStr) = k {
-            print("\(keyStr): \(v)")
+do {
+    let data = try Data(contentsOf: URL(fileURLWithPath: path))
+    let model = try NKSFParser.parse(data: data)
+    
+    if let meta = model.metadata, case .map(let dict) = meta {
+        for (k,v) in dict {
+            if case .string(let keyStr) = k {
+                print("\(keyStr): \(v)")
+            }
         }
     }
+    
+    if let plid = model.pluginId, case .map(let dict) = plid {
+        print("--- PLUGIN ID ---")
+        for (k,v) in dict {
+            if case .string(let keyStr) = k {
+                print("\(keyStr): \(v)")
+            }
+        }
+    }
+    
+} catch {
+    print("Error: \(error)")
 }

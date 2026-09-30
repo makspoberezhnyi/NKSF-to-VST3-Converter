@@ -228,12 +228,9 @@ class AppModel: ObservableObject {
                 
                 self.log("Converting \(job.nksfURL.lastPathComponent) -> \(match.plugin.bundlePath.lastPathComponent)")
                 
-                let strategy: ConversionStrategy
-                if let m = job.magic {
-                    strategy = .vst2Chunk(magic: m, isFXB: false)
-                } else {
-                    strategy = .rawPCHK
-                }
+                // Always pass raw PCHK data directly to VST3 plugins.
+                // Wrapping it in an FXP header causes strict VST3 plugins like TAL to segfault.
+                let strategy: ConversionStrategy = .rawPCHK
                 
                 let actualPluginName = match.plugin.moduleInfo.name
                 var pluginDir = job.nksfURL.deletingLastPathComponent().appendingPathComponent(actualPluginName)
