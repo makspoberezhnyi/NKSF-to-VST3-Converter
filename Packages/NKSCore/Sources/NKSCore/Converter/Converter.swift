@@ -60,7 +60,17 @@ public class Converter {
         process.standardOutput = pipe
         
         try process.run()
-        process.waitUntilExit()
+        
+        var timeout = 10.0
+        while process.isRunning && timeout > 0 {
+            Thread.sleep(forTimeInterval: 0.1)
+            timeout -= 0.1
+        }
+        
+        if process.isRunning {
+            process.terminate()
+            throw NSError(domain: "Converter", code: -1, userInfo: [NSLocalizedDescriptionKey: "Conversion timed out after 10 seconds. Plugin might be showing a dialog."])
+        }
         
         guard process.terminationStatus == 0 else {
             throw NSError(domain: "Converter", code: Int(process.terminationStatus), userInfo: [NSLocalizedDescriptionKey: "nks-host failed or crashed"])
