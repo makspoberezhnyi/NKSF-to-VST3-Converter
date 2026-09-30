@@ -1,3 +1,4 @@
+#include "HostContext.h"
 #include <iostream>
 #include <string>
 #include <vector>
@@ -169,7 +170,7 @@ int cmdConvert(int argc, char** argv) {
     component->getState(compStream);
     writeFile(outCompPath, compStream->data);
     
-    IEditController* controller = nullptr;
+     IEditController* controller = nullptr;
     if (component->queryInterface(IEditController::iid, (void**)&controller) == kResultOk) {
         controller->initialize(nullptr);
         

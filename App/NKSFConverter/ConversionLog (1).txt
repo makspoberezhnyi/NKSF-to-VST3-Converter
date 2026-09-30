@@ -1,0 +1,25 @@
+Scanning /Library/Audio/Plug-Ins/VST3 for installed plugins...
+Dropped 1 raw items.
+Found 10 NKSF files to process.
+Scan complete. Found 394 VST3 plugins.
+Converting FN-A Little Something-LEA.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-A Little Something-LEA.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Analog Feeling-PAD.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Analog Feeling-PAD.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Analog Lead-FN.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Analog Lead-FN.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Analog Pad-PAD.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Analog Pad-PAD.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Anastyle II-ARP.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Anastyle II-ARP.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Anastyle-ARP.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Anastyle-ARP.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Backwards ARP.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Backwards ARP.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Bass Lover-ARP.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Bass Lover-ARP.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Bass Wobbler-BAS.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Bass Wobbler-BAS.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Converting FN-Bassliner-BAS.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed FN-Bassliner-BAS.nksf: Error Domain=Converter Code=11 "nks-host failed or crashed" UserInfo={NSLocalizedDescription=nks-host failed or crashed}
+Conversion Finished. Success: 0, Failed: 10
