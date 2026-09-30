@@ -33,6 +33,7 @@ class AppModel: ObservableObject {
         let pchkData: Data
         let model: NKSFModel
         var resolvedMatch: PluginMatch?
+        var primaryTag: String?
     }
     
     init() {
@@ -128,11 +129,22 @@ class AppModel: ObservableObject {
                         }
                     }
                     
+                    var primaryTag: String? = nil
                     if let metadata = model.metadata, case .map(let metaDict) = metadata {
                         if let bankChain = metaDict[.string("bankchain")], case .array(let arr) = bankChain, let first = arr.first, case .string(let s) = first {
                             pluginName = s
                         } else if let nameVal = metaDict[.string("name")], case .string(let n) = nameVal {
                             pluginName = n
+                        }
+                        
+                        if let typesVal = metaDict[.string("types")], case .array(let types) = typesVal {
+                            for typeChain in types {
+                                if case .array(let chain) = typeChain, let first = chain.first, case .string(let tag) = first {
+                                    if tag.lowercased() == "genre" { continue }
+                                    primaryTag = tag
+                                    break
+                                }
+                            }
                         }
                     }
                     
@@ -140,7 +152,7 @@ class AppModel: ObservableObject {
                     
                     // Note: outURL was in the ConversionJob struct before the grouping patch, 
                     // but we WANT the grouping patch (it was before the UI rewrite!).
-                    let job = ConversionJob(nksfURL: fileURL, outURL: URL(fileURLWithPath: "/dev/null"), pluginName: pluginName, magic: pluginMagic, pchkData: pchk, model: model, resolvedMatch: match)
+                    let job = ConversionJob(nksfURL: fileURL, outURL: URL(fileURLWithPath: "/dev/null"), pluginName: pluginName, magic: pluginMagic, pchkData: pchk, model: model, resolvedMatch: match, primaryTag: primaryTag)
                     self.pendingJobs.append(job)
                     
                     if match == nil {
@@ -223,7 +235,10 @@ class AppModel: ObservableObject {
                 }
                 
                 let actualPluginName = match.plugin.moduleInfo.name
-                let pluginDir = job.nksfURL.deletingLastPathComponent().appendingPathComponent(actualPluginName)
+                var pluginDir = job.nksfURL.deletingLastPathComponent().appendingPathComponent(actualPluginName)
+                if let tag = job.primaryTag {
+                    pluginDir = pluginDir.appendingPathComponent(tag.replacingOccurrences(of: "/", with: "-"))
+                }
                 
                 do {
                     try FileManager.default.createDirectory(at: pluginDir, withIntermediateDirectories: true, attributes: nil)
