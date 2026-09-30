@@ -3,11 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 110;
+	objectVersion = 77;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0270588C04CC768077D2AC1C /* nks-host in Copy nks-host */ = {isa = PBXBuildFile; fileRef = B4F435B0261F380F22361E30 /* nks-host */; };
+		0270588C04CC768077D2AC1C /* ../../Host/build/Release/nks-host in Copy nks-host */ = {isa = PBXBuildFile; fileRef = B4F435B0261F380F22361E30 /* ../../Host/build/Release/nks-host */; };
+		5583CBB9306C5698009BE206 /* NKSCore in Frameworks */ = {isa = PBXBuildFile; productRef = 66B3CF6E77CDC74ACC835955 /* NKSCore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -17,7 +18,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 6;
 			files = (
-				0270588C04CC768077D2AC1C /* nks-host in Copy nks-host */,
+				0270588C04CC768077D2AC1C /* ../../Host/build/Release/nks-host in Copy nks-host */,
 			);
 			name = "Copy nks-host";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -26,14 +27,12 @@
 
 /* Begin PBXFileReference section */
 		556C67FA306C52D1006112C8 /* NKSFConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NKSFConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B4F435B0261F380F22361E30 /* nks-host */ = {isa = PBXFileReference; includeInIndex = 1; path = "../../Host/build/Release/nks-host"; sourceTree = "<group>"; };
+		B4F435B0261F380F22361E30 /* ../../Host/build/Release/nks-host */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "compiled.mach-o.executable"; path = "../../Host/build/Release/nks-host"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		556C67FC306C52D1006112C8 /* NKSFConverter */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-			);
 			path = NKSFConverter;
 			sourceTree = "<group>";
 		};
@@ -42,8 +41,11 @@
 /* Begin PBXFrameworksBuildPhase section */
 		556C67F7306C52D1006112C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
 			files = (
+				5583CBB9306C5698009BE206 /* NKSCore in Frameworks */,
 			);
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
@@ -53,7 +55,7 @@
 			children = (
 				556C67FC306C52D1006112C8 /* NKSFConverter */,
 				556C67FB306C52D1006112C8 /* Products */,
-				B4F435B0261F380F22361E30 /* nks-host */,
+				B4F435B0261F380F22361E30 /* ../../Host/build/Release/nks-host */,
 			);
 			sourceTree = "<group>";
 		};
@@ -117,7 +119,7 @@
 			mainGroup = 556C67F1306C52D1006112C8;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "NKSCore" */,
+				AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "../../Packages/NKSCore" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 556C67FB306C52D1006112C8 /* Products */;
@@ -132,16 +134,20 @@
 /* Begin PBXResourcesBuildPhase section */
 		556C67F8306C52D1006112C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
 			files = (
 			);
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		556C67F6306C52D1006112C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
 			files = (
 			);
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
@@ -199,10 +205,10 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -256,7 +262,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 27.0;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -281,6 +287,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.NKSFConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -311,6 +318,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.NKSFConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -333,6 +341,7 @@
 				556C6803306C52D2006112C8 /* Debug */,
 				556C6804306C52D2006112C8 /* Release */,
 			);
+			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 		556C6805306C52D2006112C8 /* Build configuration list for PBXNativeTarget "NKSFConverter" */ = {
@@ -341,12 +350,13 @@
 				556C6806306C52D2006112C8 /* Debug */,
 				556C6807306C52D2006112C8 /* Release */,
 			);
+			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCLocalSwiftPackageReference section */
-		AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "NKSCore" */ = {
+		AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "../../Packages/NKSCore" */ = {
 			isa = XCLocalSwiftPackageReference;
 			relativePath = ../../Packages/NKSCore;
 		};
@@ -355,7 +365,7 @@
 /* Begin XCSwiftPackageProductDependency section */
 		66B3CF6E77CDC74ACC835955 /* NKSCore */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "NKSCore" */;
+			package = AFA039C7DDA1EDCBFDD74D63 /* XCLocalSwiftPackageReference "../../Packages/NKSCore" */;
 			productName = NKSCore;
 		};
 /* End XCSwiftPackageProductDependency section */

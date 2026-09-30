@@ -14,8 +14,9 @@ mkdir ReleaseBuild
 # 1. Build C++ Host Helper
 echo "[1/3] Building C++ VST3 Host Helper..."
 cd Host
-mkdir -p build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release .. > /dev/null
+rm -rf build
+mkdir build && cd build
+cmake -G Xcode -DCMAKE_BUILD_TYPE=Release -DCMAKE_OSX_DEPLOYMENT_TARGET=13.0 -DCMAKE_OSX_ARCHITECTURES="arm64;x86_64" .. > /dev/null
 xcodebuild -project nks-host.xcodeproj -configuration Release -target nks-host build > /dev/null
 cd ../..
 
@@ -31,6 +32,8 @@ cd App/NKSFConverter
 xcodebuild -workspace NKSFConverter.xcworkspace \
            -scheme NKSFConverter \
            -configuration Release \
+           ARCHS="arm64 x86_64" \
+           ONLY_ACTIVE_ARCH=NO \
            -archivePath "../../ReleaseBuild/PresetBridge.xcarchive" \
            archive > /dev/null
 
