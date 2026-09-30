@@ -12,6 +12,9 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .padding(.top)
             
+            Toggle("Auto-Scan System VST3 Folder", isOn: $model.autoScanSystem)
+                .padding(.horizontal)
+            
             ZStack {
                 RoundedRectangle(cornerRadius: 10)
                     .stroke(isTargeted ? Color.blue : Color.gray, style: StrokeStyle(lineWidth: 2, dash: [5]))

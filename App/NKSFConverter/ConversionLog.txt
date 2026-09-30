@@ -1,0 +1,448 @@
+Scanning /Library/Audio/Plug-Ins/VST3 for installed plugins...
+Scan complete. Found 394 VST3 plugins.
+Dropped 1 raw items.
+Found 156 NKSF files to process.
+Converting Strange Funk.nksf -> Acid V.vst3
+✔ Saved Acid V/Strange Funk.vstpreset
+Converting Perchloric.nksf -> Acid V.vst3
+✔ Saved Acid V/Perchloric.vstpreset
+Converting Let It Roll.nksf -> Acid V.vst3
+✔ Saved Acid V/Let It Roll.vstpreset
+Converting A Legend is Reborn.nksf -> Acid V.vst3
+✔ Saved Acid V/A Legend is Reborn.vstpreset
+Converting Acid Kick.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Kick.vstpreset
+Converting Three Step.nksf -> Acid V.vst3
+✔ Saved Acid V/Three Step.vstpreset
+Converting Analog Bossa.nksf -> Acid V.vst3
+✔ Saved Acid V/Analog Bossa.vstpreset
+Converting Hangover.nksf -> Acid V.vst3
+✔ Saved Acid V/Hangover.vstpreset
+Converting Tensor.nksf -> Acid V.vst3
+✔ Saved Acid V/Tensor.vstpreset
+Converting Deep Groove.nksf -> Acid V.vst3
+✔ Saved Acid V/Deep Groove.vstpreset
+Converting Pusher.nksf -> Acid V.vst3
+✔ Saved Acid V/Pusher.vstpreset
+Converting Paper Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Paper Acid.vstpreset
+Converting Fast Travel.nksf -> Acid V.vst3
+✔ Saved Acid V/Fast Travel.vstpreset
+Converting Trance Bass Arp.nksf -> Acid V.vst3
+✔ Saved Acid V/Trance Bass Arp.vstpreset
+Converting Heavy Set.nksf -> Acid V.vst3
+✔ Saved Acid V/Heavy Set.vstpreset
+Converting Smooth Ride.nksf -> Acid V.vst3
+✔ Saved Acid V/Smooth Ride.vstpreset
+Converting Uptempo Killer.nksf -> Acid V.vst3
+✔ Saved Acid V/Uptempo Killer.vstpreset
+Converting Lysergic Is Clergy.nksf -> Acid V.vst3
+✔ Saved Acid V/Lysergic Is Clergy.vstpreset
+Converting Downsample Bassline.nksf -> Acid V.vst3
+✔ Saved Acid V/Downsample Bassline.vstpreset
+Converting Acid Destroyer.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Destroyer.vstpreset
+Converting Acid Mouth.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Mouth.vstpreset
+Converting Gluconic Arp.nksf -> Acid V.vst3
+✔ Saved Acid V/Gluconic Arp.vstpreset
+Converting Dub Essence.nksf -> Acid V.vst3
+✔ Saved Acid V/Dub Essence.vstpreset
+Converting Nasty Swinger.nksf -> Acid V.vst3
+✔ Saved Acid V/Nasty Swinger.vstpreset
+Converting Particule Pad.nksf -> Acid V.vst3
+✔ Saved Acid V/Particule Pad.vstpreset
+Converting Dry Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Dry Bass.vstpreset
+Converting Overexposed.nksf -> Acid V.vst3
+✔ Saved Acid V/Overexposed.vstpreset
+Converting Nitric Super S O.nksf -> Acid V.vst3
+✔ Saved Acid V/Nitric Super S O.vstpreset
+Converting Chemistry.nksf -> Acid V.vst3
+✔ Saved Acid V/Chemistry.vstpreset
+Converting Barkin Kitty.nksf -> Acid V.vst3
+✔ Saved Acid V/Barkin Kitty.vstpreset
+Converting Melodic Journey.nksf -> Acid V.vst3
+✔ Saved Acid V/Melodic Journey.vstpreset
+Converting Judgement.nksf -> Acid V.vst3
+✔ Saved Acid V/Judgement.vstpreset
+Converting Acceptance.nksf -> Acid V.vst3
+✔ Saved Acid V/Acceptance.vstpreset
+Converting Cloud Cover.nksf -> Acid V.vst3
+✔ Saved Acid V/Cloud Cover.vstpreset
+Converting Formic Tail.nksf -> Acid V.vst3
+✔ Saved Acid V/Formic Tail.vstpreset
+Converting Dark Ambiance.nksf -> Acid V.vst3
+✔ Saved Acid V/Dark Ambiance.vstpreset
+Converting Bass Runner.nksf -> Acid V.vst3
+✔ Saved Acid V/Bass Runner.vstpreset
+Converting Techno Square.nksf -> Acid V.vst3
+✔ Saved Acid V/Techno Square.vstpreset
+Converting Earth.nksf -> Acid V.vst3
+✔ Saved Acid V/Earth.vstpreset
+Converting Gras Beurre.nksf -> Acid V.vst3
+✔ Saved Acid V/Gras Beurre.vstpreset
+Converting Melancolia.nksf -> Acid V.vst3
+✔ Saved Acid V/Melancolia.vstpreset
+Converting Ultra Gate.nksf -> Acid V.vst3
+✔ Saved Acid V/Ultra Gate.vstpreset
+Converting Goa Bassline.nksf -> Acid V.vst3
+✔ Saved Acid V/Goa Bassline.vstpreset
+Converting Less Is More.nksf -> Acid V.vst3
+✔ Saved Acid V/Less Is More.vstpreset
+Converting Bring Back The Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Bring Back The Acid.vstpreset
+Converting Down Beat Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Down Beat Acid.vstpreset
+Converting Bittersweet Symphony.nksf -> Acid V.vst3
+✔ Saved Acid V/Bittersweet Symphony.vstpreset
+Converting Infected Leaders.nksf -> Acid V.vst3
+✔ Saved Acid V/Infected Leaders.vstpreset
+Converting Behind The Wall.nksf -> Acid V.vst3
+✔ Saved Acid V/Behind The Wall.vstpreset
+Converting Acid Smack.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Smack.vstpreset
+Converting Acetic Arp.nksf -> Acid V.vst3
+✔ Saved Acid V/Acetic Arp.vstpreset
+Converting Aceed Labarta.nksf -> Acid V.vst3
+✔ Saved Acid V/Aceed Labarta.vstpreset
+Converting Acid Breakbeats.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Breakbeats.vstpreset
+Converting Three Oh What.nksf -> Acid V.vst3
+✔ Saved Acid V/Three Oh What.vstpreset
+Converting Risin Sec.nksf -> Acid V.vst3
+✔ Saved Acid V/Risin Sec.vstpreset
+Converting Endless Corridor.nksf -> Acid V.vst3
+✔ Saved Acid V/Endless Corridor.vstpreset
+Converting Pump It.nksf -> Acid V.vst3
+✔ Saved Acid V/Pump It.vstpreset
+Converting Methanesulfonic.nksf -> Acid V.vst3
+✔ Saved Acid V/Methanesulfonic.vstpreset
+Converting Grab It.nksf -> Acid V.vst3
+✔ Saved Acid V/Grab It.vstpreset
+Converting Leap of the Angel.nksf -> Acid V.vst3
+✔ Saved Acid V/Leap of the Angel.vstpreset
+Converting Tranceport.nksf -> Acid V.vst3
+✔ Saved Acid V/Tranceport.vstpreset
+Converting 8 Bars Slope.nksf -> Acid V.vst3
+✔ Saved Acid V/8 Bars Slope.vstpreset
+Converting Traveller.nksf -> Acid V.vst3
+✔ Saved Acid V/Traveller.vstpreset
+Converting Backwards Bicycle Arpeggio.nksf -> Acid V.vst3
+✔ Saved Acid V/Backwards Bicycle Arpeggio.vstpreset
+Converting Lactic Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Lactic Acid.vstpreset
+Converting Once Demon-T.nksf -> Acid V.vst3
+✔ Saved Acid V/Once Demon-T.vstpreset
+Converting Stomping On Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Stomping On Acid.vstpreset
+Converting Trance Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Trance Bass.vstpreset
+Converting Shorti.nksf -> Acid V.vst3
+✔ Saved Acid V/Shorti.vstpreset
+Converting Battle On The Dancefloor.nksf -> Acid V.vst3
+✔ Saved Acid V/Battle On The Dancefloor.vstpreset
+Converting Look A Noise Knob.nksf -> Acid V.vst3
+✔ Saved Acid V/Look A Noise Knob.vstpreset
+Converting Petunia.nksf -> Acid V.vst3
+✔ Saved Acid V/Petunia.vstpreset
+Converting Ribonucleic Polymetric.nksf -> Acid V.vst3
+✔ Saved Acid V/Ribonucleic Polymetric.vstpreset
+Converting It Bites.nksf -> Acid V.vst3
+✔ Saved Acid V/It Bites.vstpreset
+Converting Future Sports.nksf -> Acid V.vst3
+✔ Saved Acid V/Future Sports.vstpreset
+Converting Dangerous Game.nksf -> Acid V.vst3
+✔ Saved Acid V/Dangerous Game.vstpreset
+Converting Motion Drive.nksf -> Acid V.vst3
+✔ Saved Acid V/Motion Drive.vstpreset
+Converting Passenger.nksf -> Acid V.vst3
+✔ Saved Acid V/Passenger.vstpreset
+Converting As Long As It Takes.nksf -> Acid V.vst3
+✔ Saved Acid V/As Long As It Takes.vstpreset
+Converting Acid Core Synth.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Core Synth.vstpreset
+Converting Alaska.nksf -> Acid V.vst3
+✔ Saved Acid V/Alaska.vstpreset
+Converting Taste.nksf -> Acid V.vst3
+✔ Saved Acid V/Taste.vstpreset
+Converting Vampire Slayer.nksf -> Acid V.vst3
+✔ Saved Acid V/Vampire Slayer.vstpreset
+Converting Hypnosis.nksf -> Acid V.vst3
+✔ Saved Acid V/Hypnosis.vstpreset
+Converting Chopper.nksf -> Acid V.vst3
+✔ Saved Acid V/Chopper.vstpreset
+Converting Modern Acid Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Modern Acid Bass.vstpreset
+Converting Centuri.nksf -> Acid V.vst3
+✔ Saved Acid V/Centuri.vstpreset
+Converting Arena Berlin.nksf -> Acid V.vst3
+✔ Saved Acid V/Arena Berlin.vstpreset
+Converting Laser Mafia Gurus.nksf -> Acid V.vst3
+✔ Saved Acid V/Laser Mafia Gurus.vstpreset
+Converting Acid Floor.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Floor.vstpreset
+Converting Elastic Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Elastic Bass.vstpreset
+Converting Everything.nksf -> Acid V.vst3
+✔ Saved Acid V/Everything.vstpreset
+Converting Film Noir.nksf -> Acid V.vst3
+✔ Saved Acid V/Film Noir.vstpreset
+Converting Euphoria Room.nksf -> Acid V.vst3
+✔ Saved Acid V/Euphoria Room.vstpreset
+Converting Passive Aggressive.nksf -> Acid V.vst3
+✔ Saved Acid V/Passive Aggressive.vstpreset
+Converting Allela Enabler.nksf -> Acid V.vst3
+✔ Saved Acid V/Allela Enabler.vstpreset
+Converting Refinement.nksf -> Acid V.vst3
+✔ Saved Acid V/Refinement.vstpreset
+Converting Morning Routine.nksf -> Acid V.vst3
+✔ Saved Acid V/Morning Routine.vstpreset
+Converting Full Force.nksf -> Acid V.vst3
+✔ Saved Acid V/Full Force.vstpreset
+Converting Designs.nksf -> Acid V.vst3
+✔ Saved Acid V/Designs.vstpreset
+Converting All Around.nksf -> Acid V.vst3
+✔ Saved Acid V/All Around.vstpreset
+Converting Overtones.nksf -> Acid V.vst3
+✔ Saved Acid V/Overtones.vstpreset
+Converting Spherical Path.nksf -> Acid V.vst3
+✔ Saved Acid V/Spherical Path.vstpreset
+Converting Subraum.nksf -> Acid V.vst3
+✔ Saved Acid V/Subraum.vstpreset
+Converting Citric Bassline.nksf -> Acid V.vst3
+✔ Saved Acid V/Citric Bassline.vstpreset
+Converting Not Your Regular Printer.nksf -> Acid V.vst3
+✔ Saved Acid V/Not Your Regular Printer.vstpreset
+Converting Beacon.nksf -> Acid V.vst3
+✔ Saved Acid V/Beacon.vstpreset
+Converting Little Choo.nksf -> Acid V.vst3
+✔ Saved Acid V/Little Choo.vstpreset
+Converting Corrosive Sword.nksf -> Acid V.vst3
+✔ Saved Acid V/Corrosive Sword.vstpreset
+Converting Carbon Based.nksf -> Acid V.vst3
+✔ Saved Acid V/Carbon Based.vstpreset
+Converting Ready For Kicks.nksf -> Acid V.vst3
+✔ Saved Acid V/Ready For Kicks.vstpreset
+Converting Error 303.nksf -> Acid V.vst3
+✔ Saved Acid V/Error 303.vstpreset
+Converting All Things Pass.nksf -> Acid V.vst3
+✔ Saved Acid V/All Things Pass.vstpreset
+Converting Mind Map.nksf -> Acid V.vst3
+✔ Saved Acid V/Mind Map.vstpreset
+Converting Default.nksf -> Acid V.vst3
+✔ Saved Acid V/Default.vstpreset
+Converting Bassard.nksf -> Acid V.vst3
+✔ Saved Acid V/Bassard.vstpreset
+Converting Acid Land.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Land.vstpreset
+Converting Stalker.nksf -> Acid V.vst3
+✔ Saved Acid V/Stalker.vstpreset
+Converting Gentle Plucky.nksf -> Acid V.vst3
+✔ Saved Acid V/Gentle Plucky.vstpreset
+Converting Build Down.nksf -> Acid V.vst3
+✔ Saved Acid V/Build Down.vstpreset
+Converting Die Amour Bar.nksf -> Acid V.vst3
+✔ Saved Acid V/Die Amour Bar.vstpreset
+Converting Oceanic Datacenter.nksf -> Acid V.vst3
+✔ Saved Acid V/Oceanic Datacenter.vstpreset
+Converting Next Door Neighbour.nksf -> Acid V.vst3
+✔ Saved Acid V/Next Door Neighbour.vstpreset
+Converting Hardcore Hype.nksf -> Acid V.vst3
+✔ Saved Acid V/Hardcore Hype.vstpreset
+Converting Tempest.nksf -> Acid V.vst3
+✔ Saved Acid V/Tempest.vstpreset
+Converting Random Acid.nksf -> Acid V.vst3
+✔ Saved Acid V/Random Acid.vstpreset
+Converting TIP Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/TIP Bass.vstpreset
+Converting More Cocotte.nksf -> Acid V.vst3
+✔ Saved Acid V/More Cocotte.vstpreset
+Converting Crowd Control.nksf -> Acid V.vst3
+✔ Saved Acid V/Crowd Control.vstpreset
+Converting Gesaffed.nksf -> Acid V.vst3
+✔ Saved Acid V/Gesaffed.vstpreset
+Converting Trance's Waves.nksf -> Acid V.vst3
+✔ Saved Acid V/Trance's Waves.vstpreset
+Converting Hour By Hour.nksf -> Acid V.vst3
+✔ Saved Acid V/Hour By Hour.vstpreset
+Converting Overcast.nksf -> Acid V.vst3
+✔ Saved Acid V/Overcast.vstpreset
+Converting Quiet PH Control.nksf -> Acid V.vst3
+✔ Saved Acid V/Quiet PH Control.vstpreset
+Converting Synthwave Inside.nksf -> Acid V.vst3
+✔ Saved Acid V/Synthwave Inside.vstpreset
+Converting Abyss.nksf -> Acid V.vst3
+✔ Saved Acid V/Abyss.vstpreset
+Converting Acid Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Bass.vstpreset
+Converting Bottomless Acid Pit.nksf -> Acid V.vst3
+✔ Saved Acid V/Bottomless Acid Pit.vstpreset
+Converting Ambient World.nksf -> Acid V.vst3
+✔ Saved Acid V/Ambient World.vstpreset
+Converting Acid Cream.nksf -> Acid V.vst3
+✔ Saved Acid V/Acid Cream.vstpreset
+Converting Sulfuric.nksf -> Acid V.vst3
+✔ Saved Acid V/Sulfuric.vstpreset
+Converting Half Again.nksf -> Acid V.vst3
+✔ Saved Acid V/Half Again.vstpreset
+Converting Go Fast RS6.nksf -> Acid V.vst3
+✔ Saved Acid V/Go Fast RS6.vstpreset
+Converting Fused.nksf -> Acid V.vst3
+✔ Saved Acid V/Fused.vstpreset
+Converting Space Digger.nksf -> Acid V.vst3
+✔ Saved Acid V/Space Digger.vstpreset
+Converting Madman Rib Tone.nksf -> Acid V.vst3
+✔ Saved Acid V/Madman Rib Tone.vstpreset
+Converting Kicks On Accents.nksf -> Acid V.vst3
+✔ Saved Acid V/Kicks On Accents.vstpreset
+Converting Hypno Bass Line.nksf -> Acid V.vst3
+✔ Saved Acid V/Hypno Bass Line.vstpreset
+Converting Ascorbic Line.nksf -> Acid V.vst3
+✔ Saved Acid V/Ascorbic Line.vstpreset
+Converting Clean Arp.nksf -> Acid V.vst3
+✔ Saved Acid V/Clean Arp.vstpreset
+Converting Afterburn.nksf -> Acid V.vst3
+✔ Saved Acid V/Afterburn.vstpreset
+Converting Transwave.nksf -> Acid V.vst3
+✔ Saved Acid V/Transwave.vstpreset
+Converting Thoughtful Day.nksf -> Acid V.vst3
+✔ Saved Acid V/Thoughtful Day.vstpreset
+Converting Phat Boi Bass.nksf -> Acid V.vst3
+✔ Saved Acid V/Phat Boi Bass.vstpreset
+Converting Avant Ginquoi.nksf -> Acid V.vst3
+✔ Saved Acid V/Avant Ginquoi.vstpreset
+Converting Squeaky Clean.nksf -> Acid V.vst3
+✔ Saved Acid V/Squeaky Clean.vstpreset
+Conversion Finished. Success: 156, Failed: 0
+Dropped 1 raw items.
+Found 64 NKSF files to process.
+Converting 5TH BRASS.nksf -> FB7999.vst3
+✔ Saved FB7999/5TH BRASS.vstpreset
+Converting 5TH SYNTH 2.nksf -> FB7999.vst3
+✔ Saved FB7999/5TH SYNTH 2.vstpreset
+Converting 5TH SYNTH 3.nksf -> FB7999.vst3
+✔ Saved FB7999/5TH SYNTH 3.vstpreset
+Converting 5TH SYNTH.nksf -> FB7999.vst3
+✔ Saved FB7999/5TH SYNTH.vstpreset
+Converting ACOUSTIC PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/ACOUSTIC PIANO.vstpreset
+Converting AIRPORT 8000.nksf -> FB7999.vst3
+✔ Saved FB7999/AIRPORT 8000.vstpreset
+Converting AUTOPULSE.nksf -> FB7999.vst3
+✔ Saved FB7999/AUTOPULSE.vstpreset
+Converting BELL SE 1.nksf -> FB7999.vst3
+✔ Saved FB7999/BELL SE 1.vstpreset
+Converting BELL SE 2.nksf -> FB7999.vst3
+✔ Saved FB7999/BELL SE 2.vstpreset
+Converting BEND BRASS.nksf -> FB7999.vst3
+✔ Saved FB7999/BEND BRASS.vstpreset
+Converting BRASS DELAY.nksf -> FB7999.vst3
+✔ Saved FB7999/BRASS DELAY.vstpreset
+Converting CATHEDRAL ORGAN 1.nksf -> FB7999.vst3
+✔ Saved FB7999/CATHEDRAL ORGAN 1.vstpreset
+Converting CATHEDRAL ORGAN 2.nksf -> FB7999.vst3
+✔ Saved FB7999/CATHEDRAL ORGAN 2.vstpreset
+Converting CHOIR.nksf -> FB7999.vst3
+✔ Saved FB7999/CHOIR.vstpreset
+Converting CHORUSED E.PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/CHORUSED E.PIANO.vstpreset
+Converting CLARINET.nksf -> FB7999.vst3
+✔ Saved FB7999/CLARINET.vstpreset
+Converting CLAVINET.nksf -> Clavinet V.vst3
+✔ Saved Clavinet V/CLAVINET.vstpreset
+Converting CRESCENDO BRASS.nksf -> FB7999.vst3
+✔ Saved FB7999/CRESCENDO BRASS.vstpreset
+Converting CX-3.nksf -> FB7999.vst3
+✔ Saved FB7999/CX-3.vstpreset
+Converting DISINTEGRATOR.nksf -> FB7999.vst3
+✔ Saved FB7999/DISINTEGRATOR.vstpreset
+Converting E.PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/E.PIANO.vstpreset
+Converting ELECTRIC TOM 1.nksf -> FB7999.vst3
+✔ Saved FB7999/ELECTRIC TOM 1.vstpreset
+Converting ELECTRIC TOM 2.nksf -> FB7999.vst3
+✔ Saved FB7999/ELECTRIC TOM 2.vstpreset
+Converting ELECTRONIC MACHINERY.nksf -> FB7999.vst3
+✔ Saved FB7999/ELECTRONIC MACHINERY.vstpreset
+Converting EPILOGUE.nksf -> FB7999.vst3
+✔ Saved FB7999/EPILOGUE.vstpreset
+Converting FLUTE.nksf -> FB7999.vst3
+✔ Saved FB7999/FLUTE.vstpreset
+Converting GLIDE UP_DOWN SE.nksf -> FB7999.vst3
+✔ Saved FB7999/GLIDE UP_DOWN SE.vstpreset
+Converting GUITARISTIC PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/GUITARISTIC PIANO.vstpreset
+Converting GUT GUITAR.nksf -> FB7999.vst3
+✔ Saved FB7999/GUT GUITAR.vstpreset
+Converting HARMONICA.nksf -> FB7999.vst3
+✔ Saved FB7999/HARMONICA.vstpreset
+Converting HARP.nksf -> FB7999.vst3
+✔ Saved FB7999/HARP.vstpreset
+Converting HARPSICHORD.nksf -> FB7999.vst3
+✔ Saved FB7999/HARPSICHORD.vstpreset
+Converting HONKYTONK PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/HONKYTONK PIANO.vstpreset
+Converting JAZZ ORGAN 1.nksf -> FB7999.vst3
+✔ Saved FB7999/JAZZ ORGAN 1.vstpreset
+Converting JAZZ ORGAN 2.nksf -> FB7999.vst3
+✔ Saved FB7999/JAZZ ORGAN 2.vstpreset
+Converting JAZZ ORGAN 3.nksf -> FB7999.vst3
+✔ Saved FB7999/JAZZ ORGAN 3.vstpreset
+Converting KOTO.nksf -> FB7999.vst3
+✔ Saved FB7999/KOTO.vstpreset
+Converting LFO-MOD..nksf -> FB7999.vst3
+✔ Saved FB7999/LFO-MOD..vstpreset
+Converting LOW STRINGS.nksf -> FB7999.vst3
+✔ Saved FB7999/LOW STRINGS.vstpreset
+Converting MARIMBA.nksf -> FB7999.vst3
+✔ Saved FB7999/MARIMBA.vstpreset
+Converting MODULAR LEAD.nksf -> FB7999.vst3
+✔ Saved FB7999/MODULAR LEAD.vstpreset
+Converting MOUTH WAH.nksf -> FB7999.vst3
+✔ Saved FB7999/MOUTH WAH.vstpreset
+Converting PIZZICATO.nksf -> FB7999.vst3
+✔ Saved FB7999/PIZZICATO.vstpreset
+Converting PROLOGUE.nksf -> FB7999.vst3
+✔ Saved FB7999/PROLOGUE.vstpreset
+Converting PULSE MOD. SE.nksf -> FB7999.vst3
+✔ Saved FB7999/PULSE MOD. SE.vstpreset
+Converting SHAMISEN.nksf -> FB7999.vst3
+✔ Saved FB7999/SHAMISEN.vstpreset
+Converting SLAP BASS.nksf -> FB7999.vst3
+✔ Saved FB7999/SLAP BASS.vstpreset
+Converting SLEEPING GIANT.nksf -> FB7999.vst3
+✔ Saved FB7999/SLEEPING GIANT.vstpreset
+Converting SOLO VIOLIN.nksf -> FB7999.vst3
+✔ Saved FB7999/SOLO VIOLIN.vstpreset
+Converting SPACE INSECT.nksf -> FB7999.vst3
+✔ Saved FB7999/SPACE INSECT.vstpreset
+Converting STEEL DRUM.nksf -> FB7999.vst3
+✔ Saved FB7999/STEEL DRUM.vstpreset
+Converting STRINGS-1.nksf -> FB7999.vst3
+✔ Saved FB7999/STRINGS-1.vstpreset
+Converting SYNTH BASS 1.nksf -> FB7999.vst3
+✔ Saved FB7999/SYNTH BASS 1.vstpreset
+Converting SYNTH BASS 2.nksf -> FB7999.vst3
+✔ Saved FB7999/SYNTH BASS 2.vstpreset
+Converting SYNTH BASS 3.nksf -> FB7999.vst3
+✔ Saved FB7999/SYNTH BASS 3.vstpreset
+Converting SYNTH KOTO.nksf -> FB7999.vst3
+✔ Saved FB7999/SYNTH KOTO.vstpreset
+Converting TOUCH SYNTH.nksf -> FB7999.vst3
+✔ Saved FB7999/TOUCH SYNTH.vstpreset
+Converting TOY PIANO.nksf -> FB7999.vst3
+✔ Saved FB7999/TOY PIANO.vstpreset
+Converting TROMBONE.nksf -> FB7999.vst3
+✔ Saved FB7999/TROMBONE.vstpreset
+Converting TWINKLE MUSICBOX.nksf -> FB7999.vst3
+✔ Saved FB7999/TWINKLE MUSICBOX.vstpreset
+Converting UNISON LEAD.nksf -> FB7999.vst3
+✔ Saved FB7999/UNISON LEAD.vstpreset
+Converting VIBRAPHONE.nksf -> FB7999.vst3
+✔ Saved FB7999/VIBRAPHONE.vstpreset
+Converting VOICE.nksf -> Augmented VOICES.vst3
+✔ Saved Augmented VOICES/VOICE.vstpreset
+Converting WHISTLE.nksf -> FB7999.vst3
+✔ Saved FB7999/WHISTLE.vstpreset
+Conversion Finished. Success: 64, Failed: 0

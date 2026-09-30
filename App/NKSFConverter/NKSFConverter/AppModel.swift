@@ -6,6 +6,7 @@ import Combine
 class AppModel: ObservableObject {
     @Published var logText = ""
     @Published var isProcessing = false
+    @Published var autoScanSystem = true
     
     @Published var missingPlugins = [MissingPluginRequirement]()
     @Published var showMissingPlugins = false
@@ -243,7 +244,10 @@ class AppModel: ObservableObject {
                 do {
                     try FileManager.default.createDirectory(at: pluginDir, withIntermediateDirectories: true, attributes: nil)
                     
-                    let finalOutURL = pluginDir.appendingPathComponent(job.nksfURL.lastPathComponent).deletingPathExtension().appendingPathExtension("vstpreset")
+                    let originalName = job.nksfURL.lastPathComponent
+                    let baseName = (originalName as NSString).deletingPathExtension
+                    let strictName = "\(actualPluginName) - \(baseName).vstpreset"
+                    let finalOutURL = pluginDir.appendingPathComponent(strictName)
                     
                     let result = try self.converter.convert(bundlePath: match.plugin.bundlePath.path, classID: match.classID, pchkData: job.pchkData, strategy: strategy)
                     let presetData = VSTPresetWriter.write(classID: match.classID, componentState: result.componentState, controllerState: result.controllerState, pluginName: actualPluginName)
