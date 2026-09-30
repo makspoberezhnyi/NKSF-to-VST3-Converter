@@ -58,6 +58,7 @@ public class Converter {
         
         let pipe = Pipe()
         process.standardOutput = pipe
+        process.standardError = pipe
         
         try process.run()
         

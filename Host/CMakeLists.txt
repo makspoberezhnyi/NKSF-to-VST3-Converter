@@ -22,7 +22,7 @@ target_include_directories(nks-host PRIVATE vst3sdk)
 target_link_libraries(nks-host PRIVATE sdk_hosting)
 
 if(APPLE)
-    target_link_libraries(nks-host PRIVATE "-framework CoreFoundation" "-framework CoreServices")
+    target_link_libraries(nks-host PRIVATE "-framework CoreFoundation" "-framework CoreServices" "-framework Cocoa")
 endif()
 
 set_target_properties(nks-host PROPERTIES CXX_STANDARD 17 CXX_STANDARD_REQUIRED ON)

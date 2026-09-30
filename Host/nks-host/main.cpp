@@ -1,3 +1,4 @@
+#include <Cocoa/Cocoa.h>
 #include "HostContext.h"
 #include <iostream>
 #include <string>
@@ -48,7 +49,7 @@ int cmdScan(const std::string& bundlePath) {
         cls["SubCategories"] = subCats;
         result.push_back(cls);
     }
-    std::cout << result.dump(2) << std::endl;
+    std::cerr << result.dump(2) << std::endl;
     return 0;
 }
 
@@ -171,7 +172,7 @@ int cmdConvert(int argc, char** argv) {
     writeFile(outCompPath, compStream->data);
     
      IEditController* controller = nullptr;
-    if (std::cout << "[DEBUG] queryInterface IEditController..." << std::endl;
+    if (std::cerr << "[DEBUG] queryInterface IEditController..." << std::endl;
     component->queryInterface(IEditController::iid, (void**)&controller) == kResultOk) {
         controller->initialize(nullptr);
         
@@ -185,7 +186,7 @@ int cmdConvert(int argc, char** argv) {
     }
     
     component->terminate();
-    std::cout << "{\"status\":\"ok\"}" << std::endl;
+    std::cerr << "{\"status\":\"ok\"}" << std::endl;
     return 0;
 }
 

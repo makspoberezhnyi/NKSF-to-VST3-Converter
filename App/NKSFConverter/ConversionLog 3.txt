@@ -1,0 +1,140 @@
+Scanning /Library/Audio/Plug-Ins/VST3 for installed plugins...
+Scan complete. Found 394 VST3 plugins.
+Dropped 1 raw items.
+Found 56 NKSF files to process.
+Converting 11 Strings 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 11 Strings 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 12 Strings 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 12 Strings 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 13 Strings 3.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 13 Strings 3.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 14 Organ 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 14 Organ 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 15 Organ 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 15 Organ 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 16 Organ 3.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 16 Organ 3.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 17 Brass.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 17 Brass.nksf: Error Domain=Converter Code=10 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 18 Phase Brass.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 18 Phase Brass.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 21 Piano 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 21 Piano 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 22 Piano 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 22 Piano 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 23 Clesta.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 23 Clesta.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 24 Mellow Piano.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 24 Mellow Piano.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 25 Harpsichord 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 25 Harpsichord 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 26 Harpsichord 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 26 Harpsichord 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 27 Guitar.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 27 Guitar.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 28 Synthesizer Harp.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 28 Synthesizer Harp.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 31 Bass 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 31 Bass 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 32 Bass 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 32 Bass 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 33 Clavichord 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 33 Clavichord 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 34 Clavichord 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 34 Clavichord 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 35 Pizzicato Sound 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 35 Pizzicato Sound 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 36 Pizzicato Sound 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 36 Pizzicato Sound 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 37 Xylophone.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 37 Xylophone.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 38 Glockenspiel.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 38 Glockenspiel.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 41 Violine.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 41 Violine.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 42 Trumpet.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 42 Trumpet.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 43 Horn.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 43 Horn.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 44 Tuba.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 44 Tuba.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 45 Flute.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 45 Flute.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 46 Clarinet.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 46 Clarinet.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 47 Oboe.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 47 Oboe.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 48 English Horn.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 48 English Horn.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 51 Funny Cat.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 51 Funny Cat.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 52 Wah Brass.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 52 Wah Brass.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 53 Phase Combination.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 53 Phase Combination.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 54 Reed 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 54 Reed 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 55 Popcorn.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 55 Popcorn.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 56 Reed 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 56 Reed 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 57 Reed 3.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 57 Reed 3.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 58 PWM Chorus.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 58 PWM Chorus.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 61 Synthesizer Organ.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 61 Synthesizer Organ.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 62 Effect Sound 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 62 Effect Sound 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 63 Effect Sound 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 63 Effect Sound 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 64 Space Harp.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 64 Space Harp.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 65 Funk.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 65 Funk.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 66 Space Sound 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 66 Space Sound 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 67 Mysterious Invention.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 67 Mysterious Invention.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 68 Space Sound 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 68 Space Sound 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 71 Percussive Sound 1.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 71 Percussive Sound 1.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 72 Percussive Sound 2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 72 Percussive Sound 2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 73 Whistle.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 73 Whistle.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 74 Effect Sound 3.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 74 Effect Sound 3.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 75 UFO.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 75 UFO.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 76 Space Sound 3.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 76 Space Sound 3.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 77 Surf.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 77 Surf.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting 78 Synthesizer Drum.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 78 Synthesizer Drum.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Conversion Finished. Success: 0, Failed: 56
+Dropped 1 raw items.
+Found 10 NKSF files to process.
+Converting 08-15 Bass.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed 08-15 Bass.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Apollo Pad.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Apollo Pad.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Basic Pad.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Basic Pad.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Big Lead.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Big Lead.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Chillin R2D2.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Chillin R2D2.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Classic Saw Bass.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Classic Saw Bass.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Crystal Drops.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Crystal Drops.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Dark Roads.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Dark Roads.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Deep Drop In.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Deep Drop In.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Converting Disharmonic feedback.nksf -> TAL-U-NO-LX-V2.vst3
+✘ Failed Disharmonic feedback.nksf: Error Domain=Converter Code=11 "Crash Log: " UserInfo={NSLocalizedDescription=Crash Log: }
+Conversion Finished. Success: 0, Failed: 10
