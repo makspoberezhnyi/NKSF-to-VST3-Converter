@@ -171,7 +171,8 @@ int cmdConvert(int argc, char** argv) {
     writeFile(outCompPath, compStream->data);
     
      IEditController* controller = nullptr;
-    if (component->queryInterface(IEditController::iid, (void**)&controller) == kResultOk) {
+    if (std::cout << "[DEBUG] queryInterface IEditController..." << std::endl;
+    component->queryInterface(IEditController::iid, (void**)&controller) == kResultOk) {
         controller->initialize(nullptr);
         
         auto contStream = owned(new MemoryStream());

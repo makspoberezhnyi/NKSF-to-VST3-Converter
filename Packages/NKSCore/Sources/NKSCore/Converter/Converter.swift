@@ -72,8 +72,10 @@ public class Converter {
             throw NSError(domain: "Converter", code: -1, userInfo: [NSLocalizedDescriptionKey: "Conversion timed out after 10 seconds. Plugin might be showing a dialog."])
         }
         
+        let outData = pipe.fileHandleForReading.readDataToEndOfFile()
+        let outString = String(data: outData, encoding: .utf8) ?? ""
         guard process.terminationStatus == 0 else {
-            throw NSError(domain: "Converter", code: Int(process.terminationStatus), userInfo: [NSLocalizedDescriptionKey: "nks-host failed or crashed"])
+            throw NSError(domain: "Converter", code: Int(process.terminationStatus), userInfo: [NSLocalizedDescriptionKey: "Crash Log: \(outString)"])
         }
         
         let compState = try Data(contentsOf: outCompURL)
